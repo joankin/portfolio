@@ -1,6 +1,6 @@
-# alexandru.so
+# Elyees Tatua's portfolio.
 
-A corner on the internet dedicated to Alexandru Ţurcanu.
+A corner on the internet crafted for Elyees.
 
 ## Tech Stack
 
