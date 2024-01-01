@@ -2,7 +2,7 @@
 const withMDX = require('@next/mdx')();
 
 module.exports = withMDX({
-  output: 'export',
+  distDir: 'build',
   images: { unoptimized: true },
   // Your other Next.js configurations go here
 });
