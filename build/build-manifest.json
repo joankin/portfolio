@@ -1,34 +1,83 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills.js"
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
-  "ampDevFiles": [
-    "static/chunks/webpack.js",
-    "static/chunks/amp.js"
-  ],
+  "devFiles": [],
+  "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/9GVutmymGrbhzwnEyIiEL/_buildManifest.js",
+    "static/9GVutmymGrbhzwnEyIiEL/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
     "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/webpack-bf76bfa20c1936f6.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-ea8a911c2d066f82.js",
+      "static/chunks/197-e41377ff23f92462.js",
+      "static/chunks/pages/index-7a10170a7c5ef8a0.js"
     ],
     "/_app": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_app.js"
+      "static/chunks/webpack-bf76bfa20c1936f6.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-ea8a911c2d066f82.js",
+      "static/css/e003b1f21e113f6c.css",
+      "static/chunks/pages/_app-46a08ae005d0fc67.js"
     ],
     "/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_error.js"
+      "static/chunks/webpack-bf76bfa20c1936f6.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-ea8a911c2d066f82.js",
+      "static/chunks/pages/_error-a4ba2246ff8fb532.js"
+    ],
+    "/experiments": [
+      "static/chunks/webpack-bf76bfa20c1936f6.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-ea8a911c2d066f82.js",
+      "static/chunks/197-e41377ff23f92462.js",
+      "static/chunks/pages/experiments-47f5a9ed883b25cf.js"
+    ],
+    "/experiments/book-gallery": [
+      "static/chunks/webpack-bf76bfa20c1936f6.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-ea8a911c2d066f82.js",
+      "static/chunks/197-e41377ff23f92462.js",
+      "static/chunks/pages/experiments/book-gallery-c77ae7183cde5b14.js"
+    ],
+    "/experiments/liquid-blob": [
+      "static/chunks/webpack-bf76bfa20c1936f6.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-ea8a911c2d066f82.js",
+      "static/chunks/197-e41377ff23f92462.js",
+      "static/chunks/pages/experiments/liquid-blob-2db81d74e8484ece.js"
+    ],
+    "/experiments/time-machine": [
+      "static/chunks/webpack-bf76bfa20c1936f6.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-ea8a911c2d066f82.js",
+      "static/chunks/197-e41377ff23f92462.js",
+      "static/chunks/pages/experiments/time-machine-73ccf0826fca0857.js"
+    ],
+    "/journal": [
+      "static/chunks/webpack-bf76bfa20c1936f6.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-ea8a911c2d066f82.js",
+      "static/chunks/197-e41377ff23f92462.js",
+      "static/chunks/pages/journal-bc5ddae57adbd888.js"
+    ],
+    "/journal/[slug]": [
+      "static/chunks/webpack-bf76bfa20c1936f6.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-ea8a911c2d066f82.js",
+      "static/chunks/197-e41377ff23f92462.js",
+      "static/chunks/pages/journal/[slug]-4646cd0aaaaa00a2.js"
+    ],
+    "/projects": [
+      "static/chunks/webpack-bf76bfa20c1936f6.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-ea8a911c2d066f82.js",
+      "static/chunks/197-e41377ff23f92462.js",
+      "static/chunks/pages/projects-9d5c6fbba9de649a.js"
     ]
   },
   "ampFirstPages": []

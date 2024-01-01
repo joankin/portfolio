@@ -2,5 +2,13 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/experiments/book-gallery": "pages/experiments/book-gallery.html",
+  "/experiments": "pages/experiments.html",
+  "/experiments/liquid-blob": "pages/experiments/liquid-blob.html",
+  "/experiments/time-machine": "pages/experiments/time-machine.html",
+  "/": "pages/index.html",
+  "/projects": "pages/projects.html",
+  "/journal/[slug]": "pages/journal/[slug].js",
+  "/journal": "pages/journal.js",
+  "/404": "pages/404.html"
 }

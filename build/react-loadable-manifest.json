@@ -1,6 +1,60 @@
 {
   "../components/NavigationBar.tsx -> react-toggle-dark-mode": {
-    "id": "../components/NavigationBar.tsx -> react-toggle-dark-mode",
+    "id": 2204,
     "files": []
+  },
+  "journal/[slug].tsx -> @data/journal/custom-paging-ui-in-swiftui.mdx": {
+    "id": 6756,
+    "files": [
+      "static/chunks/670.141f42e4507a6950.js",
+      "static/chunks/756.838da32192414847.js"
+    ]
+  },
+  "journal/[slug].tsx -> @data/journal/dns-ad-blocker-with-pi-hole-and-docker.mdx": {
+    "id": 512,
+    "files": [
+      "static/chunks/670.141f42e4507a6950.js",
+      "static/chunks/512.6104ffcf90d63abd.js"
+    ]
+  },
+  "journal/[slug].tsx -> @data/journal/dynamic-programming-for-dummies.mdx": {
+    "id": 8892,
+    "files": [
+      "static/chunks/670.141f42e4507a6950.js",
+      "static/chunks/892.e4e81cb9d2f952a4.js"
+    ]
+  },
+  "journal/[slug].tsx -> @data/journal/efficient-memory-management-in-python.mdx": {
+    "id": 2075,
+    "files": [
+      "static/chunks/75.c450eebdc8d385ad.js"
+    ]
+  },
+  "journal/[slug].tsx -> @data/journal/gmail-automatic-forwarder.mdx": {
+    "id": 4339,
+    "files": [
+      "static/chunks/670.141f42e4507a6950.js",
+      "static/chunks/339.e24598a90f3a0685.js"
+    ]
+  },
+  "journal/[slug].tsx -> @data/journal/recreate-apples-breathing-animation-in-swiftui-part-1.mdx": {
+    "id": 6525,
+    "files": [
+      "static/chunks/670.141f42e4507a6950.js",
+      "static/chunks/525.8802dc3a61b487d5.js"
+    ]
+  },
+  "journal/[slug].tsx -> @data/journal/recreate-apples-breathing-animation-in-swiftui-part-2.mdx": {
+    "id": 2742,
+    "files": [
+      "static/chunks/670.141f42e4507a6950.js",
+      "static/chunks/742.716ec9e18b5f9e35.js"
+    ]
+  },
+  "journal/[slug].tsx -> @data/journal/rfid-hacking-101.mdx": {
+    "id": 9689,
+    "files": [
+      "static/chunks/689.1c66255bdbcaa3df.js"
+    ]
   }
 }
