@@ -14,7 +14,7 @@ const secrets: IProject[] = [
     month: "January",
     year: 2024,
     href: "https://www.elyeestatua.co.ke/dashboard",
-    preview: "/images/projects/Tech.png"
+    preview: "/images/projects/box.png"
   },
   {
     name: "Jamii-Ya-Jadeite",
