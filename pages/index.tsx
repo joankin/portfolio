@@ -87,7 +87,7 @@ export default function Home(): JSX.Element {
               "inline-block cursor-ne-resize bg-clip-text text-transparent",
               "transition-transform ease-in-out hover:scale-105"
             )}
-            href="www.elyeestatua.co.ke"
+            href="https://www.elyeestatua.co.ke"
             target="_blank"
             rel="noopener noreferrer"
           >
