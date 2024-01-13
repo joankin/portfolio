@@ -9,11 +9,11 @@ interface IProject {
 
 const secrets: IProject[] = [
   {
-    name: "Tech Haven",
-    description: "E-commerce platform optimized for scalability made for E-products",
-    month: "December",
-    year: 2023,
-    href: "https://e-commerce-payload-8e26543.payloadcms.app/",
+    name: "MyBox",
+    description: "Cloud platform optimized for online storage made for everyone",
+    month: "January",
+    year: 2024,
+    href: "https://www.elyeestatua.co.ke/dashboard",
     preview: "/images/projects/Tech.png"
   },
   {
@@ -59,7 +59,7 @@ const secrets: IProject[] = [
   },
   {
     name: "Mediatrix",
-    description: "Dynamically generated docs for 450+ CLIs",
+    description: "Dynamically generated youtube content through the youtubeAPI",
     month: "February",
     year: 2022,
     href: "https://elyees-youtube.netlify.app/",

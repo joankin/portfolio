@@ -87,11 +87,11 @@ export default function Home(): JSX.Element {
               "inline-block cursor-ne-resize bg-clip-text text-transparent",
               "transition-transform ease-in-out hover:scale-105"
             )}
-            href="https://chimp.netlify.app/"
+            href="www.elyeestatua.co.ke"
             target="_blank"
             rel="noopener noreferrer"
           >
-            CHimp
+            MyBox
           </a>
           , previously at{" "}
           <a
